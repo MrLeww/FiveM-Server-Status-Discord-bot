@@ -1,0 +1,16 @@
+{
+    "URL_SERVER": "http://Yourserverip:30120",
+    "SERVER_NAME": "NAME",
+    "SERVER_LOGO": "",
+    "EMBED_COLOR": "#HEX",
+    "LOG_LEVEL": "2",
+    "PERMISSION": "MANAGE_MESSAGES",
+    "BOT_TOKEN": "TOKEN GOES HERE",
+    "CHANNEL_ID": "CHANNEL ID",
+    "MESSAGE_ID": "MESSAGE ID",
+    "SUGGESTION_CHANNEL": "NOT NEEDED",
+    "BUG_CHANNEL": "NOT NEEDED",
+    "BUG_LOG_CHANNEL": "NOT NEEDED",
+    "LOG_CHANNEL": "LOGS",
+    "RESTART_TIMES": "12AM | 6AM | 12PM | 6PM **(GMT)**"
+  }
